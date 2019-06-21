@@ -28,6 +28,6 @@ hogehoge
 
 [hogehoge](hogehoge)
 
-```py
+```python
 print(hogehoge)
 ```
