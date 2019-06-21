@@ -50,3 +50,10 @@ print(1 + 2)
 
 > [!IMPORTANT]
 > This is IMPORTANT
+
+
+```latex
+\{\frac{4}{5}, \sqrt{49},
+\, 6, \overline{3}, \, 7\sqrt{5}
+\}
+```
