@@ -36,3 +36,17 @@ print(1 + 2)
 
 ![image](https://user-images.githubusercontent.com/22090116/59900573-ac82b180-9433-11e9-85ff-f9925ecf6751.png)
 
+> [!NOTE]
+> This is a NOTE
+
+> [!WARNING]
+> This is a WARNING
+
+> [!ERROR]
+> This is a ERROR
+
+> [!TIP]
+> This is a TIP
+
+> [!IMPORTANT]
+> This is IMPORTANT
