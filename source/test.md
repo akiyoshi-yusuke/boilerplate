@@ -29,5 +29,8 @@ hogehoge
 [hogehoge](hogehoge)
 
 ```python
-print(hogehoge)
+print("hogehoge")
+
+print(1 + 2)
+
 ```
