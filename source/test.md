@@ -27,3 +27,7 @@ hogehoge
 |hoge|hoge
 
 [hogehoge](hogehoge)
+
+```py
+print(hogehoge)
+```
